@@ -1,4 +1,4 @@
-import processing.sound.*;
+import processing.sound.*; //imports sound library
 
 AudioIn in;
 Amplitude amp;
@@ -14,5 +14,13 @@ void setup()
 
 void draw()
 {
-  println(amp.analyze());
+  float volume = amp.analyze(); //creates a float variable which receives data from sound volume
+  if (volume >= .0075)
+{
+  println("good");
+}
+else 
+{
+  println("bad");
+}
 }
