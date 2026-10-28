@@ -1,6 +1,6 @@
 # 2026CreativeCodingIadtHRichardson
 
-<h1>Help World</h1>
+<h1>Index</h1>
 
 <p> This repository is a collection of sketches created in processing 4 as part of the IADT tertiary course.  
 
