@@ -6,11 +6,12 @@
 
 This readme will serve as a index of this small collection of code.  
 
-If statements - basic if statements used to create interactivity from the user. sends a true or false signal to execute cold held within. Can be used in conjunction with else if to create a signal on false for a different part of code.
+If statements - basic if statements used to create interactivity from the user. sends a true or false signal to execute cold held within. Can be used in conjunction with else if to create a signal on false for a different part of code. Variables are names that point to values stored they are containers for information shown through values these are usually booleans, floats, integers and strings. Strings hold letters and words, Floats hold non whole numbers such as 1.1 or 1.0, integers are full numbers with no decimal points e.g 1 or 2 with no inbetween, Booleans are True/False statements which are either true or false.
 
 bubble sort - loops and arrays in order to sort groups of information. bubble sorts will swap parts of the array each update until no more swaps are needed, it does this by checking itself and the value directly afterwards.
+Arrays are sets of information used to create a collection of variables with the same parameters. Loops can be created via a few different methods such as a for loop or a while loop, The function of these are to repeatedly run parts of code with more command over when they start and stop looping.
 
-Snowfall - loop and array used to create graphics such as snow falling or bubbles rising.  The array is used to instantiate the moving bubbles and the loop keeps resetting them once they reach the top. bubbles also have random size scaling which controls the speed.
+Snowfall - loop and array used to create graphics such as snow falling or bubbles rising.  The array is used to instantiate the moving bubbles and the loop keeps resetting them once they reach the top. bubbles also have random size scaling which controls the speed through divided variables being used in place of static numbers.
 
 Rooms_codeProj - all previous subjects covered used to solve a math puzzle in which there are 100 rooms. 
 
